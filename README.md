@@ -3,7 +3,7 @@
 ### For using this tool you should:
 
 1. git clone https://github.com/futurezayka/TGStat-chat-parser
-2. cd ./TGStats-chat-parser
+2. cd ./TGStat-chat-parser
 3. pip install -r requirements.txt
 4. python3 main.py
 5. Go to https://tgstat.ru/tags/geo
